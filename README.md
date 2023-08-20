@@ -1,1 +1,1 @@
-# CodSoft_ML_Task3
+# Customer churn prediction
